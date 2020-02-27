@@ -361,7 +361,9 @@ section.section {
 #sec-projects h1 {
   font-size: 2rem;
   padding-top: 2rem;
+  padding-bottom: 2rem;
   font-weight: bold;
+  text-align: center;
 }
 
 #sec-projects .container {
@@ -508,8 +510,10 @@ section.section {
 
 #sec-resume h1 {
   font-size: 2rem;
-  margin-bottom: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   font-weight: bold;
+  text-align: center;
 }
 
 #sec-resume .container {
